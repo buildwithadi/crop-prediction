@@ -58,6 +58,3 @@ Choosing the right crop based on soil properties and climatic factors is crucial
 - The model performs well on unseen data with high accuracy.
 - Random Forest outperformed other models like SVM, Decision Tree, and KNN.
 - User can input real-time values and get instant crop recommendations.
-
-## 🖥 Sample Prediction Output
-
